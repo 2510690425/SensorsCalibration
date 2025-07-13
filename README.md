@@ -1,7 +1,7 @@
 <img src="./icon.png" width="100%" height="100%" alt="" div align=center />
 
 # SensorsCalibration toolbox
-
+切换到ubuntu16.04 ros-kinetic版本
 SensorsCalibration is a simple calibration toolbox and open source project, mainly used for sensor calibration in autonomous driving.
 
 ## Introduction

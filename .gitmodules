@@ -1,0 +1,3 @@
+[submodule "lidar2lidar/Pangolin"]
+	path = lidar2lidar/Pangolin
+	url = https://github.com/2510690425/Pangolin
